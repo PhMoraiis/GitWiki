@@ -25,5 +25,3 @@ O desafio proposto pelo o professor de ativar a função para fazer a remoção 
 ## Para rodar os testes
 
 ### `yarn test`
-
-
